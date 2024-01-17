@@ -47,6 +47,11 @@ section#contact, footer {
     padding: 1rem 0;
 }
 
+section#publications {
+    text-align: right;
+}
+
+
 footer {
     text-align: center;
     color: #666;
