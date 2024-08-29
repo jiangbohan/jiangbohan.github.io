@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 2024
 ======
 * Large Language Models for Data Annotation: A Survey<br />
