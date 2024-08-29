@@ -24,7 +24,7 @@ Selected Publications
 ======
 * CoVaxNet: An Online-Offline Data Repository for COVID-19 Vaccine Research  
   **Bohan Jiang**, Paras Sheth, Baoxin Li, Huan Liu  
-  International AAAI Conference on Web and Social Media (ICWSM 2023) Workshop on Data for the Wellbeing of Most Vulnerable
+  International AAAI Conference on Web and Social Media (ICWSM 2023) Workshop
 * MM-COVID: A Multilingual and Multimodal Data Repository for Combating COVID-19 Disinformation  
   Yichuan Li, **Bohan Jiang**, Kai Shu, Huan Liu  
   IEEE International Conference on Big Data (IEEE BigData 2020)
