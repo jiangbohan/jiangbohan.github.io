@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : # "BOHAN JIANG'S HOMEPAGE"
+title                    : "BOHAN JIANG'S HOMEPAGE"
 title_separator          : "-"
 name                     : &name "Bohan Jiang"
 description              : &description "personal description"
