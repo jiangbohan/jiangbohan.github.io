@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8552-2681"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Bohan-Jiang-3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
