@@ -20,9 +20,12 @@ Research Interests
 Selected Publications
 ======
 * Disinformation detection: An evolving challenge in the age of LLMs
+  
   **Bohan Jiang**, Zhen Tan, Ayushi Nirmal, Huan Liu.
+
   SIAM International Conference on Data Mining (SDM 2024)
 * Disinformation detection: An evolving challenge in the age of LLMs
+
 Bohan Jiang, Zhen Tan, Ayushi Nirmal, Huan Liu.
 
 
