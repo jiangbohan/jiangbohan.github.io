@@ -18,13 +18,22 @@ Research Interests
 
 
 Selected Publications
-======
-* Disinformation detection: An evolving challenge in the age of LLMs  
-  **Bohan Jiang**, Zhen Tan, Ayushi Nirmal, Huan Liu.  
+------
+* CoVaxNet: An Online-Offline Data Repository for COVID-19 Vaccine Research  
+  **Bohan Jiang**, Paras Sheth, Baoxin Li, Huan Liu  
+  International AAAI Conference on Web and Social Media (ICWSM 2023) Workshop on Data for the Wellbeing of Most Vulnerable
+* MM-COVID: A Multilingual and Multimodal Data Repository for Combating COVID-19 Disinformation  
+  Yichuan Li, **Bohan Jiang**, Kai Shu, Huan Liu  
+  IEEE International Conference on Big Data (IEEE BigData 2020)
+------
+* Media Bias Matters: Understanding the Impact of Politically Biased News on Vaccine Attitudes in Social Media  
+  **Bohan Jiang**, Lu Cheng, Zhen Tan, Ruocheng Guo, Huan Liu  
+  IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)
+------
+* Disinformation Detection: An Evolving Challenge in the Age of LLMs  
+  **Bohan Jiang**, Zhen Tan, Ayushi Nirmal, Huan Liu  
   SIAM International Conference on Data Mining (SDM 2024)
-* Disinformation detection: An evolving challenge in the age of LLMs
 
-Bohan Jiang, Zhen Tan, Ayushi Nirmal, Huan Liu.
 
 
 Site-wide configuration
