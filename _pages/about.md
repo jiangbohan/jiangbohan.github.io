@@ -19,7 +19,6 @@ Research Interests
 
 Selected Publications
 ------
-
 * CoVaxNet: An Online-Offline Data Repository for COVID-19 Vaccine Research  
   **Bohan Jiang**, Paras Sheth, Baoxin Li, Huan Liu  
   International AAAI Conference on Web and Social Media (ICWSM 2023) Workshop on Data for the Wellbeing of Most Vulnerable
