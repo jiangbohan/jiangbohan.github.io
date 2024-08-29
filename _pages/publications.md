@@ -32,5 +32,21 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+2024
+======
+* Large Language Models for Data Annotation: A Survey<br />
+Zhen Tan, Dawei Li, Song Wang, Alimohammad Beigi, **Bohan Jiang**, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu
+
+
+2023
+======
+
+
+2022
+======
+
+
+Preprint
+======
 
 
