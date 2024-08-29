@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a 4th-year PhD student in Computer Science at Arizona State University (ASU), advised by [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). I completed both my B.S. and M.S. degrees through the Accelerated 4+1 program at ASU. Additionally, I have had the enriching experience of being a visiting scholar at the USC Information Sciences Institute (ISI), supervised by [Prof. Kristina Lerman](https://www.isi.edu/people-lerman/).
+Hello! I am currently a 4th-year PhD student in Computer Science at Arizona State University (ASU), advised by [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/). I completed both my B.S. and M.S. degrees through the Accelerated 4+1 program at ASU. I was also a visiting research assistant at the USC Information Sciences Institute (ISI), supervised by [Prof. Kristina Lerman](https://www.isi.edu/people-lerman/).
 
 
 Research Interests
