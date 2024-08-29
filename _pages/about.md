@@ -12,6 +12,9 @@ Hello! I am currently a 4th-year PhD student in Computer Science at Arizona Stat
 
 Research Interests
 ======
+
+<span style="font-size:small;">
+
 * **Social Media Mining:** Employ advanced analytics to extract patterns and trends in user interactions, aiming to understand how individuals and communities engage with content on various platforms.  
 * **Computational Social Science:** Connect diverse online and offline data to analyze complex social phenomena; Apply machine learning techniques to detect mis-/disinforamtion.
 * **Natural Language Processing:** Focus on deploying large language models to solve real-world challenges.
