@@ -18,7 +18,7 @@ author_profile: true
   Ujun Jeong, **Bohan Jiang**, Zhen Tan, H Russell Bernard, Huan Liu  
 * Catching Chameleons: Detecting Evolving Disinformation Generated using Large Language Models  
   **Bohan Jiang**\*, Chengshuai Zhao\*, Zhen Tan, Huan Liu  
-  IEEE Conference on Cognitive Machine Intelligence (IEEE CogMI 2024)
+  IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2024)
 * Media Bias Matters: Understanding the Impact of Politically Biased News on Vaccine Attitudes in Social Media  
   **Bohan Jiang**, Lu Cheng, Zhen Tan, Ruocheng Guo, Huan Liu  
   IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA 2024)
