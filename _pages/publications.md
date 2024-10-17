@@ -13,9 +13,12 @@ author_profile: true
 
 (* indicates equal contributions)
 
-
+* LRQ-Fact: LLM-Generated Relevant Questions for Multimodal Fact-Checking  
+  Alimohammad Beigi, **Bohan Jiang**, Dawei Li, Tharindu Kumarage, Zhen Tan, Pouya Shaeri, Huan Liu
+  Under Review.
 * BlueTempNet: A Temporal Multi-network Dataset of Social Interactions in Bluesky Social  
-  Ujun Jeong, **Bohan Jiang**, Zhen Tan, H Russell Bernard, Huan Liu  
+  Ujun Jeong, **Bohan Jiang**, Zhen Tan, H Russell Bernard, Huan Liu
+  IEEE Data Descriptions (2024), 1–8.
 * Catching Chameleons: Detecting Evolving Disinformation Generated using Large Language Models  
   **Bohan Jiang**\*, Chengshuai Zhao\*, Zhen Tan, Huan Liu  
   IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2024)
