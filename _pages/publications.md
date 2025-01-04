@@ -28,7 +28,7 @@ author_profile: true
 * BlueTempNet: A Temporal Multi-network Dataset of Social Interactions in Bluesky Social  
   Ujun Jeong, **Bohan Jiang**, Zhen Tan, H Russell Bernard, Huan Liu  
   IEEE Data Descriptions (2024), 1–8.
-* Catching Chameleons: Detecting Evolving Disinformation Generated using Large Language Models (🏆 Best Student Paper Award)  
+* Catching Chameleons: Detecting Evolving Disinformation Generated using Large Language Models (🏆 **Best Student Paper Award**)  
   **Bohan Jiang**\*, Chengshuai Zhao\*, Zhen Tan, Huan Liu  
   IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2024)
 * Media Bias Matters: Understanding the Impact of Politically Biased News on Vaccine Attitudes in Social Media  
