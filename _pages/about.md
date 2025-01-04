@@ -28,6 +28,6 @@ Selected Publications
 * Disinformation Detection: An Evolving Challenge in the Age of LLMs [[pdf]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.50)  
   **Bohan Jiang**, Zhen Tan, Ayushi Nirmal, Huan Liu  
   SIAM International Conference on Data Mining (SDM 2024)
-* Catching chameleons: Detecting evolving disinformation generated using large language models [[pdf]](https://arxiv.org/pdf/2406.17992) (**Best Student Paper Award**)  
+* Catching chameleons: Detecting evolving disinformation generated using large language models [[pdf]](https://arxiv.org/pdf/2406.17992) (**🏆Best Student Paper Award**)  
   **Bohan Jiang***, Chengshuai Zhao*, Zhen Tan, Huan Liu  
   IEEE International Conference on Cognitive Machine Intelligence (CogMI 2024)
