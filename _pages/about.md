@@ -13,7 +13,7 @@ Research Interests
 ======
 * **Social Media Mining:** Developing advanced algorithms to collect, model, and analyze large-scale social media data, aiming to provide actionable insights for real-world applications and decision making.
 * **Computational Social Science:** Leveraging computational methods and AI tools to interpret social phenomena and address pressing social problems, including mis-/disinformation and polarization.
-* **Natural Language Processing & LLMs:** Employing large language models to solve real-world problems, with a focus on LLMs for social science, LLM-as-a-Judge/Evaluator, and human–AI interaction.
+* **Natural Language Processing & LLMs for Social Good:** Employing large language models to solve real-world problems, with a focus on LLMs for social science, LLM-as-a-Generator/Annotator/Evaluator/Explainer, and human–AI interaction.
 
 Publications
 ======
