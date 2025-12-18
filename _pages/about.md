@@ -141,3 +141,7 @@ Publications
 * WMND-QA: A Wiki-based Multilingual Benchmark for Natural Disaster Question Answering  
   Sanyam Jain\*, **Bohan Jiang**\*, Adrienne Raglin, Huan Liu  
   *Under Submission*
+
+* Large Language Models for Causal Relations Extraction in Social Media - Insights from Billion Dollar Disaster Events
+  Ujun Jeong, Saketh Vishnubhatla, **Bohan Jiang**, Adrienne Raglin, Huan Liu  
+  *Under Submission*
