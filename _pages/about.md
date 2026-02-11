@@ -114,8 +114,8 @@ Publications
 
 **Under Submission / Preprint**
 * On the Role of Anticausal Direction in LLM-based Data Synthesis  
-  **Bohan Jiang**, Pingchuan Ma, Zhen Tan, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu
-  *Preprint*
+  **Bohan Jiang**, Pingchuan Ma, Zhen Tan, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu  
+  *Under Submission*
 
 * [Evaluating and Aligning LLM-generated Explanations of Well-Being Concepts](https://arxiv.org/pdf/2508.03990)  
   **Bohan Jiang**, Dawei Li, Zhen Tan, Chengshuai Zhao, Huan Liu  
@@ -123,11 +123,7 @@ Publications
 
 * The Emergence of Causal Curiosity from Existing Causal Belief Networks  
   Zhuoyu Shi, Xintong Jiang, **Bohan Jiang**, Fred Morstatter  
-  *Preprint*
-
-* [A Survey on Echo Chambers on Social Media: Description, Detection and Mitigation](https://arxiv.org/pdf/2112.05084)  
-  Faisal Alatawi, Lu Cheng, Anique Tahir, Mansooreh Karami, **Bohan Jiang**, Tyler Black, Huan Liu  
-  *Preprint*
+  *Under Submission*
 
 * [Large Language Models for Data Science: A Survey](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)  
   Song Wang, Zhen Tan, Zihan Chen, Dawei Li, Yaochen Zhu, **Bohan Jiang**, Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting, Jundong Li, Huan Liu  
@@ -148,3 +144,7 @@ Publications
 * Large Language Models for Causal Relations Extraction in Social Media - Insights from Billion Dollar Disaster Events
   Ujun Jeong, Saketh Vishnubhatla, **Bohan Jiang**, Adrienne Raglin, Huan Liu  
   *Under Submission*
+
+* [A Survey on Echo Chambers on Social Media: Description, Detection and Mitigation](https://arxiv.org/pdf/2112.05084)  
+  Faisal Alatawi, Lu Cheng, Anique Tahir, Mansooreh Karami, **Bohan Jiang**, Tyler Black, Huan Liu  
+  *Preprint*
