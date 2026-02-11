@@ -25,15 +25,15 @@ Publications
 
 * [CAMO: Causality-Guided Adversarial Multimodal Domain Generalization for Crisis Classification](https://arxiv.org/pdf/2512.08071)  
   Pingchuan Ma, Chengshuai Zhao, **Bohan Jiang**, Saketh Vishnubhatla, Ujun Jeong, Alimohammad Beigi, Adrienne Raglin, Huan Liu  
-  *The 19th International Conference on Web Search and Data Mining (WSDM 2026)*
-
+  *The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2026)*
+  
 * [Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534) (🏆 *Best Paper Award at DIG-BUG@ICML 2025*)  
   Dawei Li, Renliang Sun, Yue Huang, Ming Zhong, **Bohan Jiang**, Jiawei Han, Xiangliang Zhang, Wei Wang, Huan Liu  
   *The 14th International Conference on Learning Representations (ICLR 2026)*
 
 * On Causal and Anticausal LLM-Based Data Synthesis  
   **Bohan Jiang**, Pingchuan Ma, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu  
-  *The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2026)*
+  *The 19th International Conference on Web Search and Data Mining (WSDM 2026)*
 
 * [Can Large Language Models Assess the Social Impact of Conspiracy Theories?](https://arxiv.org/pdf/2412.07019)  
   **Bohan Jiang**, Dawei Li, Zhen Tan, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H. Russell Bernard, Huan Liu  
