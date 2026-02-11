@@ -113,7 +113,7 @@ Publications
 
 
 **Under Submission / Preprint**
-* On the Role of Anticausal Direction in LLM-based Data Synthesis
+* On the Role of Anticausal Direction in LLM-based Data Synthesis  
   **Bohan Jiang**, Pingchuan Ma, Zhen Tan, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu
   *Preprint*
 
