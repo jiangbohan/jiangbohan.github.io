@@ -11,9 +11,9 @@ Hello! I am a PhD candidate in Computer Science at Arizona State University (ASU
 
 Research Interests
 ======
-* **Social Media Mining:** Developing advanced algorithms to collect, analyze, and model big social media data, aiming to provide practical insights to real-world applications and decision making.
-* **Computational Social Science:** Leveraging computational methods and machine learning techniques to interpret social phenomena and address social problems.
-* **AI for Social Good:** Advancing applied ML and Human-AI collaboration to solve real-world problems: AI for social science, AI evaluation and evaluating AI, Human-AI interaction.
+* **Data Mining:** Developing advanced algorithms to collect, analyze, and model big data, aiming to provide practical insights to real-world applications and decision making.
+* **Computational Social Science:** Leveraging computational methods and statistical models to interpret social phenomena and address social problems.
+* **AI for Good:** Advancing applied ML, AI, and Human-AI collaboration to solve real-world problems and promote well-being; AI for science, AI evaluation, Large Language Model application.
 
 Publications
 ======
@@ -123,6 +123,10 @@ Publications
 
 * The Emergence of Causal Curiosity from Existing Causal Belief Networks  
   Zhuoyu Shi, Xintong Jiang, **Bohan Jiang**, Fred Morstatter  
+  *Under Submission*
+
+* Faithful Chains: Enforcing Temporal Consistency in Chain-of-Thought Reasoning via Bellman Regularization  
+  Zhuoxuan Zhang, Zhen Tan, Dawei Li, **Bohan Jiang**, Song Wang, Huan Liu, Tianlong Chen  
   *Under Submission*
 
 * [Large Language Models for Data Science: A Survey](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)  
