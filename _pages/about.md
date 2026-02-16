@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD candidate in Computer Science at Arizona State University (ASU), advised by [Prof. Huan Liu](https://faculty.engineering.asu.edu/huanliu/). My research lies at the intersection of data mining, computational social science, AI, and NLP. I am particularly interested in understanding and mitigating online harms such as disinformation, echo chambers, and conspiracies, and in leveraging large language models (LLMs) for science and social good. I also work closely and am advised by [Prof. Kristina Lerman](https://lermanlab.github.io/) and [Prof. H. Russell Bernard](https://hrussellbernard.com/)
+Hello! I am a PhD candidate in Computer Science at Arizona State University (ASU), advised by [Prof. Huan Liu](https://faculty.engineering.asu.edu/huanliu/). My research lies at the intersection of data mining, computational social science, AI, and NLP. I am particularly interested in understanding and mitigating online harms, such as disinformation, echo chambers, and conspiracies, and in leveraging and evaluating large language models for the benefit of science and well-being. I also work closely and am advised by [Prof. Kristina Lerman](https://lermanlab.github.io/) and [Prof. H. Russell Bernard](https://hrussellbernard.com/)
 
 Research Interests
 ======
