@@ -15,6 +15,14 @@ author_profile: true
 
 **Conference & Journal Papers**
 
+* [CAMO: Causality-Guided Adversarial Multimodal Domain Generalization for Crisis Classification](https://arxiv.org/pdf/2512.08071)  
+  Pingchuan Ma, Chengshuai Zhao, **Bohan Jiang**, Saketh Vishnubhatla, Ujun Jeong, Alimohammad Beigi, Adrienne Raglin, Huan Liu  
+  *The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2026)*
+  
+* [Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534) (🏆 *Best Paper Award at DIG-BUG@ICML 2025*)  
+  Dawei Li, Renliang Sun, Yue Huang, Ming Zhong, **Bohan Jiang**, Jiawei Han, Xiangliang Zhang, Wei Wang, Huan Liu  
+  *The 14th International Conference on Learning Representations (ICLR 2026)*
+
 * On Causal and Anticausal LLM-Based Data Synthesis  
   **Bohan Jiang**, Pingchuan Ma, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu  
   *The 19th International Conference on Web Search and Data Mining (WSDM 2026)*
@@ -46,10 +54,6 @@ author_profile: true
 * [Assessing On-the-Ground Disaster Impact Using Online Data Sources](https://sbp-brims.org/2025/papers/working-papers/2025_SBP-BRiMS_paper_25.pdf)  
   Saketh Vishnubhatla, Ujun Jeong, **Bohan Jiang**, Paras Sheth, Zhen Tan, Adrienne Raglin, Huan Liu  
   *SBP-BRiMS 2025*
-
-* [Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534) (🏆 *Best Paper Award*)  
-  Dawei Li, Renliang Sun, Yue Huang, Ming Zhong, **Bohan Jiang**, Jiawei Han, Xiangliang Zhang, Wei Wang, Huan Liu  
-  *DIG-BUG@ICML 2025*
 
 * [In-Group Love, Out-Group Hate: A Framework to Measure Affective Polarization via Contentious Online Discussions](https://dl.acm.org/doi/pdf/10.1145/3696410.3714935)  
   Buddhika Nettasinghe, Ashwin Rao, **Bohan Jiang**, Allon Percus, Kristina Lerman  
@@ -101,33 +105,32 @@ author_profile: true
 
 
 **Under Submission / Preprint**
-
-* [A Survey on Echo Chambers on Social Media: Description, Detection and Mitigation](https://arxiv.org/pdf/2112.05084)  
-  Faisal Alatawi, Lu Cheng, Anique Tahir, Mansooreh Karami, **Bohan Jiang**, Tyler Black, Huan Liu  
-  *Preprint*
-
-* [Large Language Models for Data Science: A Survey](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)  
-  Song Wang, Zhen Tan, Zihan Chen, Dawei Li, Yaochen Zhu, **Bohan Jiang**, Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting, Jundong Li, Huan Liu  
-  *Under Submission*
-
-* [Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534)  
-  Dawei Li, Renliang Sun, Yue Huang, Ming Zhong, **Bohan Jiang**, Jiawei Han, Xiangliang Zhang, Wei Wang, Huan Liu  
-  *Under Submission*
-
-* [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)  
-  Chengshuai Zhao, Zhen Tan, Pingchuan Ma, Dawei Li, **Bohan Jiang**, Yancheng Wang, Yingzhen Yang, Huan Liu  
+* On the Role of Anticausal Direction in LLM-based Data Synthesis  
+  **Bohan Jiang**, Pingchuan Ma, Zhen Tan, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu  
   *Under Submission*
 
 * [Evaluating and Aligning LLM-generated Explanations of Well-Being Concepts](https://arxiv.org/pdf/2508.03990)  
   **Bohan Jiang**, Dawei Li, Zhen Tan, Chengshuai Zhao, Huan Liu  
   *Under Submission*
 
-* [Who's Your Judge? On the Detectability of LLM-Generated Judgments](https://arxiv.org/pdf/2509.25154)  
-  Dawei Li, Zhen Tan, Chengshuai Zhao, **Bohan Jiang**, Baixiang Huang, Pingchuan Ma, Abdullah Alnaibari, Kai Shu, Huan Liu  
+* The Emergence of Causal Curiosity from Existing Causal Belief Networks  
+  Zhuoyu Shi, Xintong Jiang, **Bohan Jiang**, Fred Morstatter  
   *Under Submission*
 
-* [CAMO: Causality-Guided Adversarial Multimodal Domain Generalization for Crisis Classification](https://arxiv.org/pdf/2512.08071)  
-  Pingchuan Ma, Chengshuai Zhao, **Bohan Jiang**, Saketh Vishnubhatla, Ujun Jeong, Alimohammad Beigi, Adrienne Raglin, Huan Liu  
+* Faithful Chains: Enforcing Temporal Consistency in Chain-of-Thought Reasoning via Bellman Regularization  
+  Zhuoxuan Zhang, Zhen Tan, Dawei Li, **Bohan Jiang**, Song Wang, Huan Liu, Tianlong Chen  
+  *Under Submission*
+
+* [Large Language Models for Data Science: A Survey](https://www.researchgate.net/profile/Song_Wang84/publication/392594876_Large_Language_Models_for_Data_Science_A_Survey/links/6849ecfdd0be921dfef6ed18/Large-Language-Models-for-Data-Science-A-Survey.pdf)  
+  Song Wang, Zhen Tan, Zihan Chen, Dawei Li, Yaochen Zhu, **Bohan Jiang**, Yinhan He, Chengshuai Zhao, Zhenyu Lei, Paras Sheth, Lichi Li, Lo Pang-Yun Ting, Jundong Li, Huan Liu  
+  *Under Submission*
+
+* [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)  
+  Chengshuai Zhao, Zhen Tan, Pingchuan Ma, Dawei Li, **Bohan Jiang**, Yancheng Wang, Yingzhen Yang, Huan Liu  
+  *Under Submission*
+
+* [Who's Your Judge? On the Detectability of LLM-Generated Judgments](https://arxiv.org/pdf/2509.25154)  
+  Dawei Li, Zhen Tan, Chengshuai Zhao, **Bohan Jiang**, Baixiang Huang, Pingchuan Ma, Abdullah Alnaibari, Kai Shu, Huan Liu  
   *Under Submission*
 
 * WMND-QA: A Wiki-based Multilingual Benchmark for Natural Disaster Question Answering  
@@ -138,3 +141,6 @@ author_profile: true
   Ujun Jeong, Saketh Vishnubhatla, **Bohan Jiang**, Adrienne Raglin, Huan Liu  
   *Under Submission*
 
+* [A Survey on Echo Chambers on Social Media: Description, Detection and Mitigation](https://arxiv.org/pdf/2112.05084)  
+  Faisal Alatawi, Lu Cheng, Anique Tahir, Mansooreh Karami, **Bohan Jiang**, Tyler Black, Huan Liu  
+  *Preprint*
