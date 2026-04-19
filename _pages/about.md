@@ -11,6 +11,7 @@ Hello! I am a PhD candidate in Computer Science at Arizona State University (ASU
 
 Research Interests
 ======
+* **Public Health:** Studying the impact of online activities on offline health-related outcomes.
 * **Data Mining:** Developing advanced algorithms to collect, analyze, and model big data, aiming to provide practical insights to real-world applications and decision making.
 * **Computational Social Science:** Leveraging computational methods and statistical models to interpret social phenomena and address social problems.
 * **AI for Good:** Advancing applied ML, AI, and Human-AI collaboration to solve real-world problems and promote well-being; AI for science, AI evaluation, Large Language Model application.
