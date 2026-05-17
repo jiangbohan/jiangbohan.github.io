@@ -27,7 +27,6 @@ Publications
   **Bohan Jiang**, Pingchuan Ma, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu    
   *KDD 2026, Research Track*
 
-
 * [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)  
   Chengshuai Zhao, Zhen Tan, Pingchuan Ma, Dawei Li, **Bohan Jiang**, Yancheng Wang, Yingzhen Yang, Huan Liu  
   *ACL Findings 2026; FoRLM@NeurIPS 2025*
