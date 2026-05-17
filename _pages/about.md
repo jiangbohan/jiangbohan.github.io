@@ -23,7 +23,7 @@ Publications
 (* indicates equal contributions)
 
 **Conference & Journal Papers**
-* [On the Role of Anticausal Direction in LLM-based Data Synthesis]  
+* On the Role of Anticausal Direction in LLM-based Data Synthesis  
   **Bohan Jiang**, Pingchuan Ma, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu    
   *KDD 2026*
 
