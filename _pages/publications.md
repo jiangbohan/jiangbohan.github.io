@@ -14,7 +14,10 @@ author_profile: true
 (* indicates equal contributions)
 
 **Conference & Journal Papers**
-
+* On the Role of Anticausal Direction in LLM-based Data Synthesis  
+  **Bohan Jiang**, Pingchuan Ma, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu    
+  *KDD 2026, Research Track*
+  
 * [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)  
   Chengshuai Zhao, Zhen Tan, Pingchuan Ma, Dawei Li, **Bohan Jiang**, Yancheng Wang, Yingzhen Yang, Huan Liu  
   *ACL Findings 2026; FoRLM@NeurIPS 2025*
@@ -114,10 +117,6 @@ author_profile: true
   Pingchuan Ma, Chengshuai Zhao, Utkarsh Byahut, **Bohan Jiang**, Saketh Vishnubhatla, Ujun Jeong, Adrienne Raglin, Andre Harrison, Huan Liu  
   *Under Submission*
 
-* On the Role of Anticausal Direction in LLM-based Data Synthesis  
-  **Bohan Jiang**, Pingchuan Ma, Zhen Tan, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu  
-  *Under Submission*
-
 * Evaluating and Aligning LLM-generated Explanations of Scientific Concepts  
   **Bohan Jiang**, Dawei Li, Zhen Tan, Chengshuai Zhao, Huan Liu  
   *Under Submission*
@@ -146,6 +145,6 @@ author_profile: true
   Sanyam Jain\*, **Bohan Jiang**\*, Adrienne Raglin, Huan Liu  
   *Under Submission*
 
-* Large Language Models for Causal Relations Extraction in Social Media - Insights from Billion Dollar Disaster Events  
-  Ujun Jeong, Saketh Vishnubhatla, **Bohan Jiang**, Adrienne Raglin, Huan Liu  
+* Large Language Models for Causal Relations Extraction in Social Media: A Validation Framework for Disaster Intelligence  
+  Ujun Jeong, Saketh Vishnubhatla, **Bohan Jiang**, Andre Harrison, Adrienne Raglin, Huan Liu  
   *Under Submission*
