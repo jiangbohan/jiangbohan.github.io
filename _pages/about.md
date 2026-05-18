@@ -24,7 +24,7 @@ Publications
 
 **Conference & Journal Papers**
 * On the Role of Anticausal Direction in LLM-based Data Synthesis  
-  **Bohan Jiang**, Pingchuan Ma, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu    
+  **Bohan Jiang**, Pingchuan Ma, Zhen Tan, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu    
   *KDD 2026, Research Track*
 
 * [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)  
