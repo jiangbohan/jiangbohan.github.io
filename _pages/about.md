@@ -25,6 +25,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 # 📰 News and Updates
 
 * **2026.06:** ✈️ Attending **2026 SUNBELT** in Daytona Beach, FL. [link](https://www.insna.org/)
+* **2026.05:** ✈️ Attending **ICWSM 2026** in LA. [link](https://www.icwsm.org/2026/index.html)
 * **2026.05:** 🎉 Our paper on **"Anticausal LLM-based Data Synthesis"** is accepted to **KDD 2026 Research Track**, see you in Jeju, Korea (maybe). 
 * **2026.05:** ✈️ Attending **APPEX—ASU Launch** in ASU west campus. [link](https://asuevents.asu.edu/event/appex-asu-launch)
 * **2026.04:** 🎉 Our paper on **"Is Chain-of-Thought Reasoning of LLMs a Mirage?"** is accepted to **ACL 2026**, see you in San Diego. [paper](https://arxiv.org/pdf/2508.01191)
