@@ -15,7 +15,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 
 <span style="color:#B22222;">I expect to graduate in **Summer 2026** and am currently looking for **assistant professor / post-doc / research scientist positions**. Please feel free to reach out at bjiang14[AT]asu.edu.</span>
 
-Research Interests
+🧑‍💻 Research Interests
 ======
 * **Data Mining:** Developing advanced algorithms to collect, analyze, and model big data, aiming to provide practical insights to real-world applications and decision making.
 * **AI for Good:** Advancing applied ML, AI, and Human-AI collaboration to solve real-world problems and promote well-being; AI for science, AI evaluation, Large Language Model application.
