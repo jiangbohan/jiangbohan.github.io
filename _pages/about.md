@@ -22,7 +22,7 @@ Research Interests
 * **Computational Social Science:** Leveraging computational methods and statistical models to address social problems; Fact-checking; Disinformation detection; Social polarization; Crisis Classification.
 * **Public Health:** Studying the impact of online activities on offline health-related outcomes; Pandemic dynamics; Multimodal and multilingual public health data collection and analysis.
 
-# News and Updates
+# 📢News and Updates
 
 * **2026.06:** Attending **2026 SUNBELT** in Daytona Beach, FL. [link](https://www.insna.org/)
 * **2026.05:** Our paper on **"Anticausal LLM-based Data Synthesis"** is accepted to **KDD 2026 Research Track**, see you in Jeju, Korea (Maybe)!. 
