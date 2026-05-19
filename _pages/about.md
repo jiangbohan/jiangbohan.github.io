@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Computer Science at [Arizona State University (ASU)](h
 
 I am particularly interested in understanding and mitigating online harms, such as disinformation, echo chambers, and conspiracies, and in leveraging and evaluating AI models for the benefit of science, public health, and well-being. I also work closely with and am advised by [Prof. Kristina Lerman](https://lermanlab.github.io/) and [Prof. H. Russell Bernard](https://hrussellbernard.com/).
 
-<span style="color:#B22222;">I expect to graduate in **Summer 2026** and am currently looking for **assistant professor / post-doc / research scientist positions**. Please feel free to reach out at bjiang14[AT]asu.edu.</span>
+<span style="color:#B22222;"><strong>I expect to graduate in **Summer 2026** and am currently looking for **assistant professor / post-doc / research scientist positions**. Please feel free to reach out at bjiang14[AT]asu.edu.</strong></span>
 
 🧑‍💻 Research Interests
 ======
