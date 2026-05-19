@@ -32,7 +32,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 * **2026.04:** ✈️ Attending **The inaugural AIX Summit** in New York City, and present our work on **LLM-powered Social Impact Assessment**. [link](https://ainextgenfoundation.org/aix2026/)
 * **2026.04:** 🎉 Our paper on **"MLLMs for Simulating Subjective Human Responses to Short Video"** is accepted to **SocialLLM@ICWSM 2026**, see you in LA.
 * **2026.02:** 🎉 Our paper on **"Causality-guided Multimodal Crisis Classification"** is accepted to **PAKDD 2026**, see you in Hong Kong (maybe). [paper](https://arxiv.org/pdf/2512.08071)
-* **2026.01:** 🎉 Our paper on **"Preference Leakage: A Contamination Problem in LLM-as-a-judge"** is accepted to **ICLR 2026**. This work also received the Best Paper Award at **DIG-BUGS@ICML 2025**. [paper](https://arxiv.org/pdf/2502.01534)
+* **2026.01:** 🎉 Our paper on **"Preference Leakage: A Contamination Problem in LLM-as-a-judge"** is accepted to **ICLR 2026**. This work also received the Best Paper Award 🏆 at **DIG-BUGS@ICML 2025**. [paper](https://arxiv.org/pdf/2502.01534)
 * **2025.12:** 🎉 Our paper on **"LLM-based Data Synthesis"** is accpeted to **WSDM 2026**, see you in Boise! [paper](https://dl.acm.org/doi/pdf/10.1145/3773966.3779380)
 * **2025.11:** 🎉 Our paper on **"Social Impact Assessment of Conspiracy Theories"** is accpeted to **ICWSM 2026**, see you in LA!.
 
