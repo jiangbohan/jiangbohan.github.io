@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hello! I am Bohan Jiang.
+# 😄 Hello! I am Bohan Jiang.
 
 I am a Ph.D. candidate in Computer Science at [Arizona State University (ASU)](https://www.asu.edu/), advised by [Prof. Huan Liu](https://faculty.engineering.asu.edu/huanliu/). My research lies at the intersection of data mining, computational social science, AI, and NLP.
 
