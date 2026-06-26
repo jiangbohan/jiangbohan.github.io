@@ -24,6 +24,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 
 # 📰 News and Updates
 
+* **2026.06:** 👨‍🏫 Invited Talk at **University of Central Florida**, computer science department, Institute of AI. "From Data Synthesis to Judgment: How LLMs Reshape Modern AI Evaluation"
 * **2026.06:** ✈️ Attending **2026 SUNBELT** in Daytona Beach, FL. [link](https://www.insna.org/)
 * **2026.05:** ✈️ Attending **ICWSM 2026** in LA. [link](https://www.icwsm.org/2026/index.html)
 * **2026.05:** 🎉 Our paper on **"Anticausal LLM-based Data Synthesis"** is accepted to **KDD 2026 Research Track**, see you in Jeju, Korea (maybe). 
