@@ -39,5 +39,5 @@ I am particularly interested in understanding and mitigating online harms, such 
 * **2026.01:** 🎉 Our paper on **"Preference Leakage: A Contamination Problem in LLM-as-a-judge"** is accepted to **ICLR 2026**. This work also received the Best Paper Award 🏆 at **DIG-BUGS@ICML 2025**. [paper](https://arxiv.org/pdf/2502.01534)
 * **2026.01:** 👨‍🏫 Invited Talk at **ACM at ASU**, ASU tempe campus. "Combating Harmful Content in the Age of LLMs"
 * **2025.12:** 🎉 Our paper on **"LLM-based Data Synthesis"** is accpeted to **WSDM 2026**, see you in Boise! [paper](https://dl.acm.org/doi/pdf/10.1145/3773966.3779380)
-* **2025.11:** 🎉 Our paper on **"Social Impact Assessment of Conspiracy Theories"** is accpeted to **ICWSM 2026**, see you in LA!.
+* **2025.11:** 🎉 Our paper on **"Social Impact Assessment of Conspiracy Theories"** is accpeted to **ICWSM 2026**, see you in LA.
 
