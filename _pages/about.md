@@ -24,6 +24,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 
 # 📰 News and Updates
 
+* **2026.08:** 👨‍🏫 Invited Talk at **NSF APPEX Center**, Summer Research Symposium. "An agentic AI system for discovering novel research hypotheses" [news](https://appex.org/news/)
 * **2026.06:** 👨‍🏫 Invited Talk at **University of Central Florida**, computer science department, Institute of AI. "From Data Synthesis to Judgment: How LLMs Reshape Modern AI Evaluation"
 * **2026.06:** ✈️ Attending **2026 SUNBELT** in Daytona Beach, FL. [link](https://www.insna.org/)
 * **2026.05:** ✈️ Attending **ICWSM 2026** in LA. [link](https://www.icwsm.org/2026/index.html)
