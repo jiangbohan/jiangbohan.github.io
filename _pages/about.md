@@ -22,7 +22,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 * **Computational Social Science:** Leveraging computational methods and statistical models to address social problems; Fact-checking; Disinformation detection; Social polarization; Crisis Classification.
 * **Public Health:** Studying the impact of online activities on offline health-related outcomes; Pandemic dynamics; Multimodal and multilingual public health data collection and analysis.
 
-# 📰 News and Updates
+# 📰 Recent News and Activities
 
 * **2026.08:** 👨‍🏫 Invited Talk at **NSF APPEX Center**, Summer Research Symposium. "An agentic AI system for discovering novel research hypotheses" [news](https://appex.org/news/)
 * **2026.06:** 👨‍🏫 Invited Talk at **University of Central Florida**, computer science department, Institute of AI. "From Data Synthesis to Judgment: How LLMs Reshape Modern AI Evaluation"
