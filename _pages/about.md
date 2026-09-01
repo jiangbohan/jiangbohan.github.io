@@ -24,6 +24,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 
 # 📰 Recent News and Activities
 
+* **2026.08:** 👨‍🏫 Invited Lecturer at **CSE 472: Social Media Mining (2026 Fall)**, ASU. "Chapter 2: Graph Essentials"
 * **2026.08:** 👨‍🏫 Invited Talk at **NSF APPEX Center**, Summer Research Symposium. "An agentic AI system for discovering novel research hypotheses" [news](https://appex.org/news/)
 * **2026.06:** 👨‍🏫 Invited Talk at **University of Central Florida**, computer science department, Institute of AI. "From Data Synthesis to Judgment: How LLMs Reshape Modern AI Evaluation"
 * **2026.06:** ✈️ Attending **2026 SUNBELT** in Daytona Beach, FL. [link](https://www.insna.org/)
