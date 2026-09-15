@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Computer Science at [Arizona State University (ASU)](h
 
 I am particularly interested in understanding and mitigating online harms, such as disinformation, echo chambers, and conspiracies, and in leveraging and evaluating AI models for the benefit of science, public health, and well-being. I also work closely with and am advised by [Prof. Kristina Lerman](https://lermanlab.github.io/) and [Prof. H. Russell Bernard](https://hrussellbernard.com/).
 
-<span style="color:#B22222;"><strong>I expect to graduate in **Fall 2026** and am currently looking for **assistant professor / post-doc / research scientist positions**. Please feel free to reach out at bjiang14[AT]asu[DOT]edu</strong></span>
+<span style="color:#B22222;"><strong>I will graduate in **Fall 2026** and am currently looking for **assistant professor / post-doc / research scientist positions**. Please feel free to reach out at bjiang14[AT]asu[DOT]edu</strong></span>
 
 # 💡 Research Interests
 ======
@@ -24,6 +24,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 
 # 📰 Recent News and Activities
 
+* **2026.09:** 🎓 Successfully defended my **Ph.D. dissertation**, "Learning with Asymmetry: An Evolving Challenge in Human-AI Information Ecosystems"
 * **2026.08:** 👨‍🏫 Invited Lecturer at **CSE 472: Social Media Mining (2026 Fall)**, ASU. "Chapter 2: Graph Essentials"
 * **2026.08:** 👨‍🏫 Invited Talk at **NSF APPEX Center**, Summer Research Symposium. "An agentic AI system for discovering novel research hypotheses" [news](https://appex.org/news/)
 * **2026.06:** 👨‍🏫 Invited Talk at **University of Central Florida**, computer science department, Institute of AI. "From Data Synthesis to Judgment: How LLMs Reshape Modern AI Evaluation"
