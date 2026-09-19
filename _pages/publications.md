@@ -76,11 +76,11 @@ author_profile: true
 
 * [Catching Chameleons: Detecting Evolving Disinformation Generated using Large Language Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10835722) (🏆 *Best Student Paper Award*)  
   **Bohan Jiang**\*, Chengshuai Zhao\*, Zhen Tan, Huan Liu  
-  *IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2024)*
+  *IEEE 6th International Conference on Cognitive Machine Intelligence (CogMI 2024)*
 
 * [Media Bias Matters: Understanding the Impact of Politically Biased News on Vaccine Attitudes in Social Media](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10722800)  
   **Bohan Jiang**, Lu Cheng, Zhen Tan, Ruocheng Guo, Huan Liu  
-  *IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA 2024)*
+  *IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA 2024)*
 
 * [Disinformation Detection: An Evolving Challenge in the Age of LLMs](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.50)  
   **Bohan Jiang**, Zhen Tan, Ayushi Nirmal, Huan Liu  
