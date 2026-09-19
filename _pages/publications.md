@@ -44,7 +44,7 @@ author_profile: true
 
 * [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://aclanthology.org/2025.emnlp-main.138.pdf)  
   Dawei Li, **Bohan Jiang**, Liangjie Huang, Alimohammad Beigi, Chengshuai Zhao, Zhen Tan, Amrita Bhattacharjee, Yuxuan Jiang, Canyu Chen, Tianhao Wu, Kai Shu, Lu Cheng, Huan Liu  
-  *Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*
+  *Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Main Track*
 
 * [Who's Your Judge? On the Detectability of LLM-Generated Judgments](https://arxiv.org/pdf/2509.25154)  
   Dawei Li, Zhen Tan, Chengshuai Zhao, **Bohan Jiang**, Baixiang Huang, Pingchuan Ma, Abdullah Alnaibari, Kai Shu, Huan Liu  
@@ -68,7 +68,7 @@ author_profile: true
 
 * [Large Language Models for Data Annotation and Synthesis: A Survey](https://aclanthology.org/2024.emnlp-main.54/)  
   Zhen Tan\*, Dawei Li\*, Song Wang\*, Alimohammad Beigi, **Bohan Jiang**, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu  
-  *Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*
+  *Conference on Empirical Methods in Natural Language Processing (EMNLP 2024), Main Track, Oral*
 
 * [BlueTempNet: A Temporal Multi-network Dataset of Social Interactions in Bluesky Social](https://arxiv.org/pdf/2407.17451)  
   Ujun Jeong, **Bohan Jiang**, Zhen Tan, H. Russell Bernard, Huan Liu  
