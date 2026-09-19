@@ -32,7 +32,7 @@ author_profile: true
 
 * [On Causal and Anticausal LLM-Based Data Synthesis](https://dl.acm.org/doi/pdf/10.1145/3773966.3779380)  
   **Bohan Jiang**, Pingchuan Ma, Zhuoyu Shi, Fred Morstatter, Adrienne Raglin, Huan Liu  
-  *The 19th International Conference on Web Search and Data Mining (WSDM 2026)*
+  *The 19th International Conference on Web Search and Data Mining (WSDM 2026), Short Paper*
 
 * [Can Large Language Models Assess the Social Impact of Conspiracy Theories?](https://arxiv.org/pdf/2412.07019)  
   **Bohan Jiang**, Dawei Li, Zhen Tan, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H. Russell Bernard, Huan Liu  
