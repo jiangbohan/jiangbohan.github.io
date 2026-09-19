@@ -38,7 +38,7 @@ author_profile: true
   **Bohan Jiang**, Dawei Li, Zhen Tan, Xinyi Zhou, Ashwin Rao, Kristina Lerman, H. Russell Bernard, Huan Liu  
   *International AAAI Conference on Web and Social Media (ICWSM 2026)*
 
-* Evaluating Multimodal Large Language Models for Simulating Subjective Human Responses to Short Video Content: A Case Study  
+* [Multimodal Large Language Models as Synthetic Participants in Video-Based Studies: An Evaluation](https://arxiv.org/pdf/2606.07541)  
   Prabal Shrestha, **Bohan Jiang**, Haoning Xue, Huan Liu, Xinyi Zhou  
   *ICWSM 2026 Workshop on Large Language Models for Social Reasoning and Simulation (SocialLLM@ICWSM 2026)*
 
@@ -112,6 +112,14 @@ author_profile: true
 
 
 **Under Submission / Preprint**
+
+* [Measuring and Detecting Harmful AI Sycophancy](https://arxiv.org/pdf/2608.05624)  
+  **Bohan Jiang**\*, Dawei Li\*, Yasin Silva, Huan Liu  
+  *Under Submission*
+
+* [TextCloak: Thwarting Unauthorized LLM Exploitation via RL-Driven Unlearnable Text](https://arxiv.org/pdf/2607.28862)  
+  Chengshuai Zhao\*, Pingchuan Ma\*, Dawei Li, **Bohan Jiang**, Zhiyuan Yu, Zhen Tan, Huan Liu  
+  *Under Submission*
 
 * CaDiF: Few-Shot Multimodal Learning via Causality-Based Disentanglement and Cross-Modal Flattening  
   Pingchuan Ma, Chengshuai Zhao, Utkarsh Byahut, **Bohan Jiang**, Saketh Vishnubhatla, Ujun Jeong, Adrienne Raglin, Andre Harrison, Huan Liu  
