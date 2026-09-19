@@ -121,6 +121,10 @@ author_profile: true
   Chengshuai Zhao\*, Pingchuan Ma\*, Dawei Li, **Bohan Jiang**, Zhiyuan Yu, Zhen Tan, Huan Liu  
   *Under Submission*
 
+* DPE-Rec: Diversity-Preserving and Efficient Diffusion Language Model Recommendation for Bundle Construction  
+  Pingchuan Ma, **Bohan Jiang**, Chengshuai Zhao, Dawei Li, Zhen Tan, Huan Liu  
+  *Under Submission*  
+
 * CaDiF: Few-Shot Multimodal Learning via Causality-Based Disentanglement and Cross-Modal Flattening  
   Pingchuan Ma, Chengshuai Zhao, Utkarsh Byahut, **Bohan Jiang**, Saketh Vishnubhatla, Ujun Jeong, Adrienne Raglin, Andre Harrison, Huan Liu  
   *Under Submission*
