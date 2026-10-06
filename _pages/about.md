@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 # 😄 Hello!
-
 I am a Ph.D. candidate in Computer Science at [Arizona State University (ASU)](https://www.asu.edu/), advised by [Prof. Huan Liu](https://faculty.engineering.asu.edu/huanliu/). My research lies at the intersection of data mining, computational social science, AI, and NLP.
 
 I am particularly interested in understanding and mitigating online harms, such as disinformation, echo chambers, and conspiracies, and in leveraging and evaluating AI models for the benefit of science, public health, and well-being. I also work closely with and am advised by [Prof. Kristina Lerman](https://lermanlab.github.io/) and [Prof. H. Russell Bernard](https://hrussellbernard.com/).
@@ -16,7 +15,6 @@ I am particularly interested in understanding and mitigating online harms, such 
 <span style="color:#B22222;"><strong>I am looking for **assistant professor / post-doc / research scientist positions**. Please feel free to reach out at bjiang14[AT]asu[DOT]edu</strong></span>
 
 # 💡 Research Interests
-======
 * **Data Mining:** Developing advanced algorithms to collect, analyze, and model big data, aiming to provide practical insights to real-world applications and decision making.
 * **AI for Good:** Advancing applied ML, AI, and Human-AI collaboration to solve real-world problems and promote well-being; AI for science, AI evaluation, Large Language Model application.
 * **Computational Social Science:** Leveraging computational methods and statistical models to address social problems; Fact-checking; Disinformation detection; Social polarization; Crisis Classification.
