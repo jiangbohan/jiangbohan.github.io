@@ -22,9 +22,9 @@ I am particularly interested in understanding and mitigating online harms, such 
 
 # 📰 Recent News and Activities
 
-* **2026.11:** 🎉 Our paper on **"LLM for Chaotic Time Series Forecasting"** is accepted to WSDM 2027 (main)! [preprint](https://arxiv.org/pdf/2608.29579)
-* **2026.11:** 🎉 Our tutorial on **"LLM-assisted Social Computing: Foundations, Methods, and Challenges"** is accepted to WSDM 2027! See you in Hong Kong! [link](https://www.wsdm-conference.org/2027/accepted-tutorials.html#tutorial-3)
-* **2026.10:** 🎉 Our tutorial on **"Data Evolution: Continuous Feedback for Recursive Self-Improving AI"** is accepted to IEEE BigData 2026! See you in Phoenix! [link](https://bigdataieee.org/BigData2026/program/tutorials/)
+* **2026.11:** 🎉 Our paper on **"LLM for Chaotic Time Series Forecasting"** is accepted to **WSDM 2027 Main Track**! [preprint](https://arxiv.org/pdf/2608.29579)
+* **2026.11:** 🎉 Our tutorial on **"LLM-assisted Social Computing: Foundations, Methods, and Challenges"** is accepted to **WSDM 2027**! See you in Hong Kong! [link](https://www.wsdm-conference.org/2027/accepted-tutorials.html#tutorial-3)
+* **2026.10:** 🎉 Our tutorial on **"Data Evolution: Continuous Feedback for Recursive Self-Improving AI"** is accepted to **IEEE BigData 2026**! See you in Phoenix! [link](https://bigdataieee.org/BigData2026/program/tutorials/)
 * **2026.09:** 🎓 Successfully defended my **Ph.D. dissertation**, "Learning with Asymmetry: An Evolving Challenge in Human-AI Information Ecosystems"
 * **2026.08:** 👨‍🏫 Invited Speaker and Guest Lecturer at **CSE 472: Social Media Mining (2026 Fall)**, ASU. [link](https://faculty.engineering.asu.edu/huanliu/courses)
 * **2026.08:** 👨‍🏫 Invited Talk at **NSF APPEX Center**, Summer Research Symposium. "An agentic AI system for discovering novel research hypotheses" [news](https://appex.org/news/)
