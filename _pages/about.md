@@ -16,12 +16,15 @@ I am particularly interested in understanding and mitigating online harms, such 
 
 # 💡 Research Interests
 * **Data Mining:** Developing advanced algorithms to collect, analyze, and model big data, aiming to provide practical insights to real-world applications and decision making.
-* **AI for Good:** Advancing applied ML, AI, and Human-AI collaboration to solve real-world problems and promote well-being; AI for science, AI evaluation, Large Language Model application.
+* **AI for Good:** Advancing applied ML, AI, and Human-AI collaboration to solve real-world problems and promote well-being; AI for science, AI evaluation, Large Language Model applications.
 * **Computational Social Science:** Leveraging computational methods and statistical models to address social problems; Fact-checking; Disinformation detection; Social polarization; Crisis Classification.
 * **Public Health:** Studying the impact of online activities on offline health-related outcomes; Pandemic dynamics; Multimodal and multilingual public health data collection and analysis.
 
 # 📰 Recent News and Activities
 
+* **2026.11:** 🎉 Our paper on **"LLM for Chaotic Time Series Forecasting"** is accepted to WSDM 2027 (main)! [preprint](https://arxiv.org/pdf/2608.29579)
+* **2026.11:** 🎉 Our tutorial on **"LLM-assisted Social Computing: Foundations, Methods, and Challenges"** is accepted to WSDM 2027! See you in Hong Kong! [link](https://www.wsdm-conference.org/2027/accepted-tutorials.html#tutorial-3)
+* **2026.10:** 🎉 Our tutorial on **"Data Evolution: Continuous Feedback for Recursive Self-Improving AI"** is accepted to IEEE BigData 2026! See you in Phoenix! [link](https://bigdataieee.org/BigData2026/program/tutorials/)
 * **2026.09:** 🎓 Successfully defended my **Ph.D. dissertation**, "Learning with Asymmetry: An Evolving Challenge in Human-AI Information Ecosystems"
 * **2026.08:** 👨‍🏫 Invited Speaker and Guest Lecturer at **CSE 472: Social Media Mining (2026 Fall)**, ASU.
 * **2026.08:** 👨‍🏫 Invited Talk at **NSF APPEX Center**, Summer Research Symposium. "An agentic AI system for discovering novel research hypotheses" [news](https://appex.org/news/)
@@ -35,7 +38,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 * **2026.04:** ✈️ Attending **The inaugural AIX Summit** in New York City, and present our work on **LLM-powered Social Impact Assessment**. [link](https://ainextgenfoundation.org/aix2026/)
 * **2026.04:** 🎉 Our paper on **"MLLMs for Simulating Subjective Human Responses to Short Video"** is accepted to **SocialLLM@ICWSM 2026**, see you in LA.
 * **2026.02:** 👨‍🏫 Invited Talk at **Boise State Universirt**, computer science department. "From Data Synthesis to Judgment: How LLMs Reshape Modern AI Evaluation"
-* **2026.02:** 🎉 Our paper on **"Causality-guided Multimodal Crisis Classification"** is accepted to **PAKDD 2026**, see you in Hong Kong (maybe). [paper](https://arxiv.org/pdf/2512.08071)
+* **2026.02:** 🎉 Our paper on **"Causality-guided Multimodal Crisis Classification"** is accepted to **PAKDD 2026**, see you in Hong Kong. [paper](https://arxiv.org/pdf/2512.08071)
 * **2026.01:** 🎉 Our paper on **"Preference Leakage: A Contamination Problem in LLM-as-a-judge"** is accepted to **ICLR 2026**. This work also received the Best Paper Award 🏆 at **DIG-BUGS@ICML 2025**. [paper](https://arxiv.org/pdf/2502.01534)
 * **2026.01:** 👨‍🏫 Invited Talk at **ACM at ASU**, ASU tempe campus. "Combating Harmful Content in the Age of LLMs"
 * **2025.12:** 🎉 Our paper on **"LLM-based Data Synthesis"** is accpeted to **WSDM 2026**, see you in Boise! [paper](https://dl.acm.org/doi/pdf/10.1145/3773966.3779380)
