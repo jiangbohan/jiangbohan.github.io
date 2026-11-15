@@ -26,7 +26,7 @@ I am particularly interested in understanding and mitigating online harms, such 
 * **2026.11:** 🎉 Our tutorial on **"LLM-assisted Social Computing: Foundations, Methods, and Challenges"** is accepted to WSDM 2027! See you in Hong Kong! [link](https://www.wsdm-conference.org/2027/accepted-tutorials.html#tutorial-3)
 * **2026.10:** 🎉 Our tutorial on **"Data Evolution: Continuous Feedback for Recursive Self-Improving AI"** is accepted to IEEE BigData 2026! See you in Phoenix! [link](https://bigdataieee.org/BigData2026/program/tutorials/)
 * **2026.09:** 🎓 Successfully defended my **Ph.D. dissertation**, "Learning with Asymmetry: An Evolving Challenge in Human-AI Information Ecosystems"
-* **2026.08:** 👨‍🏫 Invited Speaker and Guest Lecturer at **CSE 472: Social Media Mining (2026 Fall)**, ASU.
+* **2026.08:** 👨‍🏫 Invited Speaker and Guest Lecturer at **CSE 472: Social Media Mining (2026 Fall)**, ASU. [link](https://faculty.engineering.asu.edu/huanliu/courses)
 * **2026.08:** 👨‍🏫 Invited Talk at **NSF APPEX Center**, Summer Research Symposium. "An agentic AI system for discovering novel research hypotheses" [news](https://appex.org/news/)
 * **2026.06:** 👨‍🏫 Invited Talk at **University of Central Florida**, computer science department, Institute of AI. "From Data Synthesis to Judgment: How LLMs Reshape Modern AI Evaluation"
 * **2026.06:** ✈️ Attending **2026 SUNBELT** in Daytona Beach, FL. [link](https://www.insna.org/)
